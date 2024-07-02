@@ -1,7 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=albab47&label=Profile%20views&color=0e75b6&style=flat" alt="albab47" /> </p>
 
-<!-- About me -->
+<!-- Banner -->
+![Header](https://raw.githubusercontent.com/Albab47/Albab47/main/github-header.png "Header")
 
+<!-- About me -->
 # Hi 👋, I'm Albab
 
 ### A passionate frontend developer from Bangladesh 🇧🇩
